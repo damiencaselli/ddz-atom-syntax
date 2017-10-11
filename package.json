@@ -1,0 +1,15 @@
+{
+  "name": "dashdashzako-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "dashdashzako syntax theme inspired by base16 eighties",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/damiencaselli/ddz-atom-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
